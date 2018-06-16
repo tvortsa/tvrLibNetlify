@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: tvortsa_ru
 
 media_folder: static/img
 public_folder: /img
