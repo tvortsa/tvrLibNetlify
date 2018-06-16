@@ -1,19 +1,29 @@
 ---
-templateKey: 'article-post'
-path: /articles
-title: About our values
+templateKey : article-post
+title : About 3 Ds Max Interactive
+date : Fri Jun 15 2018 22:38:59 GMT+0300 (Беларусь (зима))
+description : 3ds Max Interactive помогает создавать визуально ошеломляющие, захватывающие и интерактивные впечатления любого рода.
+tags:
+    - 3DS Max
+    - About
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+# О 3ds Max Interactive
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+3ds Max Interactive помогает создавать визуально ошеломляющие, захватывающие и интерактивные впечатления любого рода.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Он включает движок реального времени который вы можете использовать для вашего 3D контента на множестве платформ -- включая desktop, мобильные устройства, игровые консоли, Web, и виртуальную и устройства виртуальной и расширенной реальности (VR & AR). С помощью прилагаемого набора инструментов для редактирования вы можете создавать свои сцены и воплощать их в жизнь с интерактивным поведением и визуальными эффектами.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Комбинируя мощные средства 3D моделирования и нимации в 3ds Max с этим новым инструментом для создания интерактивного контента, 3ds Max Interactive старается быть простым доступным, эффективным, и со знакомым рабочим процессом создания обаятельного контента.
+
+![](images/maxtovr-levelplay.jpg)
+
+Когда вы познакомитесь с интерактивным движком и инструментами редактирования, вы будете иногда видеть, как имя Stingray появляется здесь и там. Это связано с тем, что 3ds Max Interactive основан на технологии Stingray от Autodesk, той же технологии, которую наши клиенты используют для создания различных [award-winning games](http://arrowheadgamestudios.com/games/helldivers/), [virtual-reality experiences](https://vimeo.com/219007622), [architectural visualizations](https://www.autodesk.com/products/revit-live/overview), и т.п.
+
+With 3ds Max Interactive, you'll get all the power and flexibility of Stingray, plus smoother interop with 3ds Max and Revit Live, and extra features designed specifically for 3ds Max users.
+
+---
+IncludeIf:
+-	MaxInteractive
+
+---
