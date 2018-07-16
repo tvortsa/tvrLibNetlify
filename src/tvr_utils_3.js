@@ -10,7 +10,7 @@ var extFile = '.md'; //расширение файлов markdown
 
 var myDir = process.cwd(); // главная папка контента
 const subDir = 'articles';
-const dirDataPath = myDir + '\\pages' + '\\' + subDir + '\\';
+const dirDataPath = myDir +'\\src' + '\\pages' + '\\' + subDir + '\\';
 const dirData = fs.readdirSync(dirDataPath); // корневая папка с данными
 const indexPath = dirDataPath + 'index.md'; // путь к файлу index.md текущей папки
 
