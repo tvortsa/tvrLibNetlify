@@ -43,8 +43,9 @@ mdFiles.forEach(element => {
 function articlesList() {
 	for (let index = 0; index < filesNames.length; index++) {
 		const element =
-			'\n'+'[' + filesTitles[index] + ']' + '(' + '/'+ subDir + '/' + filesNames[index] + '.md'+')' + '\n';
-		filesLinks.push(element);
+			'\n'+'[' + filesTitles[index] + ']' + '(' + '/'+ subDir + '/' + filesNames[index] +')' + '\n';
+
+			filesLinks.push(element);
 	}
 	const arr = filesLinks;
 	return arr;
